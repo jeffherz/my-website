@@ -1,14 +1,17 @@
 <template>
+  <navigation />
   <home-screen />
 </template>
 
 <script>
 import HomeScreen from './components/HomeScreen.vue'
+import Navigation from './components/Navigation.vue'
 
 export default {
   name: 'App',
   components: {
-    HomeScreen
+    HomeScreen,
+    Navigation
   }
 }
 </script>

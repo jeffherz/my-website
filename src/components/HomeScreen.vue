@@ -1,7 +1,10 @@
 <template>
     <main>
-        <h1>Jeff Herz</h1>
-        <h3>An avid problem-solver and software developer</h3>
+        <div class="opening-text">
+            <h1>Jeff Herz</h1>
+            <h3>An avid problem-solver and software developer</h3>
+        </div>
+        
     </main>
 </template>
 
