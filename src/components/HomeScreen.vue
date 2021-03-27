@@ -3,6 +3,8 @@
         <div class="opening-text">
             <h1>Jeff Herz</h1>
             <h3>An avid problem-solver and software developer</h3>
+            <AboutMe/>
+
         </div>
         
     </main>
@@ -10,7 +12,7 @@
 
 <script>
 export default {
-
+import ~/src/components/AboutMe;
 }
 </script>
 
