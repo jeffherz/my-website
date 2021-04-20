@@ -12,7 +12,7 @@
 
 <script>
 export default {
-import ~/src/components/AboutMe;
+import ../components/AboutMe
 }
 </script>
 
