@@ -11,8 +11,13 @@
 </template>
 
 <script>
+import AboutMe from './AboutMe'
+
 export default {
-import ../components/AboutMe
+    name: AboutMe,
+    components: {
+        'AboutMe': AboutMe
+    }
 }
 </script>
 
